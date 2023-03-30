@@ -1,5 +1,6 @@
 import { RecoilRoot } from 'recoil'
 import '../lib/firebase'
+import '../lib/authentication'
 import '../hooks/useAuthentication'
 import '../styles/globals.css'
 
